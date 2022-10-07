@@ -20,3 +20,10 @@ Pré-Projeto: dúvidas sobre correlatos e justificativa.
 ## 2022-10-01 - 15:18
 
 Revisão final do pré-projeto (liberei para entrega): [2022-09-30_PreProjeto_Dalton](2022-09-30_PreProjeto_Dalton.pdf "2022-09-30_PreProjeto_Dalton")  
+
+## 2022-10-06 - 21:01
+
+Entrega do Pré-Projeto.
+
+[2022-10-06_PreProjeto_Dalton.docx](2022-10-06_PreProjeto_Dalton.docx "2022-10-06_PreProjeto_Dalton.docx")  
+[2022-10-06_PreProjeto_Dalton.pdf](2022-10-06_PreProjeto_Dalton.pdf "2022-10-06_PreProjeto_Dalton.pdf")  
