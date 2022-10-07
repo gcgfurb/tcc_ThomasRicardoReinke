@@ -25,5 +25,5 @@ Revisão final do pré-projeto (liberei para entrega): [2022-09-30_PreProjeto_Da
 
 Entrega do Pré-Projeto.
 
-[2022-10-06_PreProjeto_Dalton.docx](2022-10-06_PreProjeto_Dalton.docx "2022-10-06_PreProjeto_Dalton.docx")  
-[2022-10-06_PreProjeto_Dalton.pdf](2022-10-06_PreProjeto_Dalton.pdf "2022-10-06_PreProjeto_Dalton.pdf")  
+[2022-10-06_PreProjeto_Entregue.docx](2022-10-06_PreProjeto_Entregue.docx "2022-10-06_PreProjeto_Entregue.docx")  
+[2022-10-06_PreProjeto_Entregue.pdf](2022-10-06_PreProjeto_Entregue.pdf "2022-10-06_PreProjeto_Entregue.pdf")  
