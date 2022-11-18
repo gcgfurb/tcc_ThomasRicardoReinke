@@ -27,3 +27,8 @@ Entrega do Pré-Projeto.
 
 [2022-10-06_PreProjeto_Entregue.docx](2022-10-06_PreProjeto_Entregue.docx "2022-10-06_PreProjeto_Entregue.docx")  
 [2022-10-06_PreProjeto_Entregue.pdf](2022-10-06_PreProjeto_Entregue.pdf "2022-10-06_PreProjeto_Entregue.pdf")  
+
+## 2022-11-17 - 11:00
+
+[2022-11-17_PreProjeto_Defesa_slides.pdf](2022-11-17_PreProjeto_Defesa_slides.pdf "2022-11-17_PreProjeto_Defesa_slides.pdf")  
+[2022-11-17_PreProjeto_Defesa.mp4](2022-11-17_PreProjeto_Defesa.mp4 "2022-11-17_PreProjeto_Defesa.mp4")  
