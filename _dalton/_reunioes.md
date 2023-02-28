@@ -32,3 +32,33 @@ Entrega do Pré-Projeto.
 
 [2022-11-17_PreProjeto_Defesa_slides.pdf](2022-11-17_PreProjeto_Defesa_slides.pdf "2022-11-17_PreProjeto_Defesa_slides.pdf")  
 [2022-11-17_PreProjeto_Defesa.mp4](2022-11-17_PreProjeto_Defesa.mp4 "2022-11-17_PreProjeto_Defesa.mp4")  
+
+## 2023-02-28 - 17:35
+
+[TccAlex]: https://www.furb.br/dsc/arquivos/tccs/monografias/2020_2_alex-serodio-goncalves_monografia.pdf "TccAlex"  
+
+### Teórica
+
+Deixa um pouco parado. Ver o que o prof. Maurício vai passando na aula de TCC2.  
+Usar como modelo para o artigo o TCC [TccAlex].  
+  
+### Prática
+
+ATENÇÃO: não é um jogo, e sim um ambiente de testes dos 3 em um jogo.  
+
+Linguagem: Python  
+Game: [PyGame](https://www.pygame.org/ "PyGame")  
+
+- jogo isométrico  
+  - vai estudando de acordo com a demanda  
+
+- ray casting \[14-03-2023\]  
+  - está testando um algoritmo, mas precisa ser otimizado (não considera o plano "far")  
+  - [https://ncase.me/sight-and-light/](https://ncase.me/sight-and-light/)  
+    - fontes: pode usar  
+
+- Wave Function Collapse (WFC)  
+
+### Analisar
+
+Usar o [TccAlex]  
