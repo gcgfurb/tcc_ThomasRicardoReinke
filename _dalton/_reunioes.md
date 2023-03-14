@@ -62,3 +62,16 @@ Game: [PyGame](https://www.pygame.org/ "PyGame")
 ### Analisar
 
 Usar o [TccAlex]  
+
+## 2023-03-14 - 17:31
+
+Conseguiu entender os 3 tipos de algoritmos de Ray Tracing.  
+Semana que vem não precisamos conversar.  
+Vai implementar os 3 tipos de algoritmos. Já com representação de Debug Visual.  
+Tem um problema de seleção no Sprits no plano Isométrico (cantos).  
+Vai tentar usar a abordagem de seleção por triângulo retângulo.  
+Pensei em rotina recursiva de BBox internas.  
+![PesquisaTiles](PesquisaTiles.png)  
+Vai tentar implementar esta rotina.  
+
+Depois tem ainda o algoritmo WFC.  
