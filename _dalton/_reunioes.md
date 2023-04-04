@@ -75,3 +75,14 @@ Pensei em rotina recursiva de BBox internas.
 Vai tentar implementar esta rotina.  
 
 Depois tem ainda o algoritmo WFC.  
+
+## 2023-04-04 - 17:36
+
+### Ray Casting
+
+- aumentando o padrão  
+- linhas horizontal e vertical  
+- Várias linhas  
+
+Não precisamos ter reunião na próxima semana.  
+Vai fazer: Wave Function Collapse (WFC)  
