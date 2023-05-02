@@ -92,11 +92,15 @@ Vai fazer: Wave Function Collapse (WFC)
 Fez o WFC. Tem um erro a cada 20 execução. Erro de estouro da direita.  
 Vai fazer:
 
-- usar o métodos de  desenho do PayGame pois está com problemas no controle do teclado e mouse.  
-- fazer restrições no WFC para controlar parâmetros externos (qtd. água).  
 - arrumar erro 20 execução.  
 - trazer métodos de desenho para o RayCasting.  
 - talvez usar modelos 3D para pegar as imagens nos planos isométricos e assim não precisar ficar redesenhando.  
 - .. depois .. avaliar tempos dos algoritmos.  
 
 Não precisamos ter reunião na próxima semana.  
+
+## 2023-05-02 - 17:43
+
+- [x] usar o métodos de  desenho do PayGame pois está com problemas no controle do teclado e mouse.  
+- [x] fazer restrições no WFC para controlar parâmetros externos (qtd. água).  
+  - em vez de um vetor usar arquivo JSon. 
