@@ -104,3 +104,17 @@ Não precisamos ter reunião na próxima semana.
 - [x] usar o métodos de  desenho do PayGame pois está com problemas no controle do teclado e mouse.  
 - [x] fazer restrições no WFC para controlar parâmetros externos (qtd. água).  
   - em vez de um vetor usar arquivo JSon. 
+
+## 2023-05-10 - 18:08
+
+Feito
+
+Basicamente o mapa que antes era uma array de arrays (2D), agora virou um dicionário com chave => valor, sendo a chave a posição xy do chunk (por exemplo 1,1), e o valor, uma lista dos sprites dentro do chunk.
+Com base na distância de renderização, é realizado um cálculo pra ver quais são todos os chunks que irão ser desenhados na tela (no vídeo a distância é igual a 2, então pega 2 chunks em cada direção ficando um 5x5).
+Aí ele percorre essa lista de 25 chunks e desenha somente os tiles que estão dentro deles, ignorando o restante do mundo gerado.
+
+A fazer
+
+Tratar os gargalos de performance do novo estilo de plotagem do mundo.
+Adicionar um fog para esconder os chunks não plotados.
+Por enquanto, o mundo ainda é gerado somente no começo da execução do programa. Vou fazer para gerá-lo conforme o jogador vai andando para alguma das bordas do mapa. Por exemplo: quando o usuário se aproxima uma quantidade X de chunks da borda do mapa, eu chamo o algoritmo do WFC para gerar novos chunks e colocá-los no dicionário mencionado anteriormente, assim, basicamente é possível andar infinitamente para qualquer um dos lados.
