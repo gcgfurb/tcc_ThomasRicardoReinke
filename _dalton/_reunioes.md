@@ -118,3 +118,8 @@ A fazer
 Tratar os gargalos de performance do novo estilo de plotagem do mundo.
 Adicionar um fog para esconder os chunks não plotados.
 Por enquanto, o mundo ainda é gerado somente no começo da execução do programa. Vou fazer para gerá-lo conforme o jogador vai andando para alguma das bordas do mapa. Por exemplo: quando o usuário se aproxima uma quantidade X de chunks da borda do mapa, eu chamo o algoritmo do WFC para gerar novos chunks e colocá-los no dicionário mencionado anteriormente, assim, basicamente é possível andar infinitamente para qualquer um dos lados.
+
+## 2023-05-16 - 17:36
+
+Fez controle de Chunk para visualizar o renderizado.  
+Vai fazer o controle para renderizar as bordas.  
