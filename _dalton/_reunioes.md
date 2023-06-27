@@ -123,3 +123,7 @@ Por enquanto, o mundo ainda é gerado somente no começo da execução do progra
 
 Fez controle de Chunk para visualizar o renderizado.  
 Vai fazer o controle para renderizar as bordas.  
+
+## 2023-06-27 - 10:39
+
+[Artigo_2023-06-27_EntregueBanca](Artigo_2023-06-27_EntregueBanca.pdf)  
