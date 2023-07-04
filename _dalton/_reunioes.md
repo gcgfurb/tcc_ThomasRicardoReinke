@@ -127,3 +127,7 @@ Vai fazer o controle para renderizar as bordas.
 ## 2023-06-27 - 10:39
 
 [Artigo_2023-06-27_EntregueBanca](Artigo_2023-06-27_EntregueBanca.pdf)  
+
+## 2023-07-04 - 19:49 Revisão Maurício
+
+[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
