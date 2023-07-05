@@ -137,3 +137,22 @@ Vai fazer o controle para renderizar as bordas.
 Duas retas paralelas nunca irão se intersectar ... se intersectam num ponto no infinito se considerar o espaço homogêneo.
 
 09:50 -> 27 minutos  
+
+## 2023-07-05 - 14:03
+
+Faltou fazer um comparativo com os trabalhos correlatos.  
+
+14:28
+14:33
+
+### Marcel
+
+**Figura 6 poderia ter nas conclusões**.  
+Algumas marcas no texto. Arruma pontuações .. frases longas.  
+Figura 8: associação ou agregação.  
+
+### Aurélio
+
+Gostou por ter feito um apanhado de técnicas gráficas e matemática.  
+Sugestão da apresentação .. código com imagem (melhor).  
+Correlatos .. tentar pegar WFC 2003.  
