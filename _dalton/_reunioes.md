@@ -131,3 +131,9 @@ Vai fazer o controle para renderizar as bordas.
 ## 2023-07-04 - 19:49 Revisão Maurício
 
 [Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
+
+## 2023-07-05 - 09:23 Prévia da Defesa
+
+Duas retas paralelas nunca irão se intersectar ... se intersectam num ponto no infinito se considerar o espaço homogêneo.
+
+09:50 -> 27 minutos  
