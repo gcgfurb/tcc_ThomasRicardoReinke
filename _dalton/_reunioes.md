@@ -145,6 +145,8 @@ Faltou fazer um comparativo com os trabalhos correlatos.
 
 ### Marcel
 
+[Artigo_2023-07-05_Revisao_Marcel.pdf](Artigo_2023-07-05_Revisao_Marcel.pdf)  
+
 **Figura 6 poderia ter nas conclusões**.  
 Algumas marcas no texto. Arruma pontuações .. frases longas.  
 Figura 8: associação ou agregação.  
