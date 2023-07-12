@@ -128,6 +128,8 @@ Vai fazer o controle para renderizar as bordas.
 
 [Artigo_2023-06-27_EntregueBanca](Artigo_2023-06-27_EntregueBanca.pdf)  
 
+----
+
 ## 2023-07-05 - 09:23 Prévia da Defesa
 
 Duas retas paralelas nunca irão se intersectar ... se intersectam num ponto no infinito se considerar o espaço homogêneo.
