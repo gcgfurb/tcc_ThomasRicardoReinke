@@ -1,0 +1,31 @@
+Pré-requisitos:
+python 3.11.3
+pip 22.3.1
+
+----------------------------------
+
+Entre na pasta raíz do projeto e instale as bibliotecas necessárias com:
+pip install -r requirements.txt
+
+----------------------------------
+
+Execução dos POCs dos algoritmos de Ray Casting:
+1. Entre na pasta ray_casting.
+2. Execute o comando "python main.py"
+
+* Utilize as setas do teclado para se mover.
+* Utilize o botão esquerdo do mouse para colocar/tirar blocos.
+* Utilize as teclas 1, 2 e 3 do teclado para alterar entre os algoritmos:
+    - 1: Abordagem por pixel
+    - 2: Abordagem por DDA
+    - 3: Abordagem por vértices
+
+----------------------------------
+
+Execução do Projeto Final:
+1. Entre na pasta isometry.
+2. Execute o comando "python main.py"
+
+* Utilize as teclas W, A, S, D para se mover.
+* Utilize o botão esquerdo do mouse para colocar objetos (árvores).
+* Utilize a tecla F3 para habilitar/desabilitar o modo de debug.
